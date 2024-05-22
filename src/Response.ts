@@ -1,4 +1,4 @@
-export const characters = [
+export const response = [
     {
         "id": 1,
         "name": "Rick Sanchez",
